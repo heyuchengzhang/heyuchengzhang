@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Heyucheng Zhang. I am an undergraduate student at the University of Toronto.
 
 <!--
 **heyuchengzhang/heyuchengzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
